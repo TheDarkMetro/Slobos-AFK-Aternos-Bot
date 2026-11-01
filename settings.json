@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Sigmaserver-l4Il.aternos.me:14313",
+    "port": 14313,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
